@@ -95,7 +95,7 @@ The resources in this category were courses, videos, and articles that I found t
 ### Web Developer Roadmap
 * A pretty good guide on what to learn to achieve your goals as a developer. Take note, this roadmap is good suggestion for anyone who doesn’t know what to learn, but don’t take it as the law. If you want to learn a technology that isn’t on this list or is further down the path then suggested, do it. You’ll learn best by following your own curiosity rather than someone else’s list (Including the one I have made here).
 
-## Dash.General Assembly:
+### Dash.General Assembly:
 * General Assembly’s pre-admittance work. Focuses almost exclusively on front-end development, however I found it be one of the best tutorials on HTML and CSS out there. For anyone who has already gone through something like Khan Academy  and wants to get to the next step, this is a great resource. The greatest reason I would suggest this course is because it teaches you about things like CSS breakpoints, accessibility, and mobile responsiveness which are pillars of UI/UX development.  
 * Link: https://dash.generalassemb.ly/
 
