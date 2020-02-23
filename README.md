@@ -239,9 +239,28 @@ Every day, new advancements in the tech industry change the world we live in and
 
 ### Architecture, App making, Database Management
 * [10 Rules for a Better SQL Schema](https://www.sisense.com/blog/better-sql-schema/)
+* [Project structure for an Express REST API when there is no “standard way”](https://www.coreycleary.me/project-structure-for-an-express-rest-api-when-there-is-no-standard-way/)
 * [Pagination: You're (Probably) Doing It Wrong](https://coderwall.com/p/lkcaag/pagination-you-re-probably-doing-it-wrong)
 * [Database Normalization Explained](https://dev.to/nexttech/database-normalization-explained-5b1a)
+* [Difference between Controllers and Services in an Express Rest API](https://www.coreycleary.me/what-is-the-difference-between-controllers-and-services-in-node-rest-apis/)
+* [Why you should isolate Express from the rest of your Node.js application](https://www.coreycleary.me/why-you-should-isolate-express-from-the-rest-of-your-node-application/)
+* [Express Code structure](https://github.com/focusaurus/express_code_structure)
+* [Bulletproof node.js project architecture](https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf#architecture)
+* [Evolving API Pagination at Slack](https://slack.engineering/evolving-api-pagination-at-slack-1c1f644f8e12)
+
+
+## Business, Startup, General Industry Info
+* [What is the General Data Protection Regulation?](https://digitalguardian.com/blog/what-gdpr-general-data-protection-regulation-understanding-and-complying-gdpr-data-protection)
+* [What It’s Like Managing 10 Million Users As a Solo Developer](https://www.producthunt.com/stories/what-it-s-like-managing-10-million-users-as-a-solo-developer)
+
+
+## Security
+* [GraphQL security in Node.js project](https://graphqlmastery.com/blog/graphql-security-in-node-js-project)
+* [How to safely store passwords](https://codahale.com/how-to-safely-store-a-password/)
+* [Web Security 101](https://dev.to/bnevilleoneill/web-security-101-40gj)
+
 
 ### Devops, Infrastructure, Code Deployment:
  * [AWS Tips I wish I’d Known Before I Started](https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/)
  * [Heroku vs AWS EC2 (or Infrastructure as service vs Platform as service)](https://rubygarage.org/blog/heroku-vs-amazon-web-services)
+ * [Difference Between Horizontal and Vertical Scaling](https://github.com/vaquarkhan/vaquarkhan/wiki/Difference-between-scaling-horizontally-and-vertically)
