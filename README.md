@@ -11,6 +11,7 @@ Sections:
 1. [Job Resources](#Job-Resources)
 1. [Coding Games & tools](#Coding-Games-&-Tools)
 1. [Social Issues in Tech and Organizations to Support](#Social-Issues-in-Tech-and-Organizations-to-Support)
+1. [CS Culture and People to Follow](#CS-Culture-and-People-to-Follow)
 1. [Further reading](#Further-Reading)
 
 
@@ -143,7 +144,12 @@ The resources in this category were courses, videos, and articles that I found t
 
 ### Dev.to
 * Pretty much a combination of the CodeNewbie community and StackOverflow. This website/community prides itself on being beginner friendly and tries to maintain an environment that makes asking “dumb” questions easy. I would highly recommend this to developers of all levels who may feel intimidated by the often toxic culture of StackOverflow.
--https://dev.to/
+* Link: https://dev.to/
+
+
+### How To Graphql
+A very in-depth tutorial series that teaches you how to begin developing Graphql for client to server applications. While the tutorials here are bit heavier on the theory-side of GraphQL, I find that they pair nicely with the Net Ninja's [course on Graphql](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f) which is heavier on the application side of the technology.
+* Link: https://www.howtographql.com/
 
 ## Job Resources:
 If you elect to make software development more than just a hobby, there are tons of companies looking for people with your skillset. In fact, according to the 2016 Department of Labor statistics, over the next 10 years there will be far more positions in software development than there are people to fill them, which means working in this field will likely lead to above average salaries.
@@ -202,10 +208,17 @@ https://flexboxfroggy.com/
 * Link: https://regex101.com/
 
 
-## Binary to Decimal Converter
+### Binary to Decimal Converter
 A tool for converting binary numbers into decimal formats (and vice-versa). Not something I need to do on the day to day, but it is useful when you are first learning how binary works.
 * Link: https://www.rapidtables.com/convert/number/decimal-to-binary.html
 
+### Http Cats
+A useful web page for referencing http status codes and their associated meanings.
+* Link: https://http.cat/
+
+### Caniuse
+A great website that tells what front-end technologies are available on both desktop and mobile web browsers. This is extremely useful if you are working on web app that must support wide a range of users including those using legacy browsers.
+* Link: https://caniuse.com/#tables
 
 ## Social Issues in Tech and Organizations to Support
 Every day, new advancements in the tech industry change the world we live in and alter the fundamental ways we go about life. Unfortunately, sometimes these changes do not affect us all evenly, and can sometimes further marginalize certain groups. As such, social justice and ethical practices are incredibly important in this industry. Below are resources I have used to learn about social issues in tech and some of the organizations that have been created to solve them.
@@ -233,6 +246,60 @@ Every day, new advancements in the tech industry change the world we live in and
 * Another great organization that aims to defeat the gender gap in tech. Also available through Lyft “Round Up and Donate.”
 -https://girlswhocode.com/about-us/
 
+### TechHire Oakland
+An organization based in Oakland, California that works to help East Bay residents from underrepresented backgrounds gain access to the tech industry.
+* Link: https://www.techhireoakland.org/
+
+
+## CS Culture and People to Follow
+
+### Command Line Heroes
+A podcast by Saron Yitbarek (founder of CodeNewbie) that discusses the history of computing starting from the origins of the operating system and command line. Super interesting to listen to if you interestde in learning about the hisotirical context that created many of core technologies used in software development today.
+* Link: https://www.redhat.com/en/command-line-heroes
+
+### The Happiest Cat:
+A game developer with very interesting videos about the ridiculous amount of work and talent that goes into developing modern video games.
+* Link: https://www.youtube.com/channel/UCBsuOBu-dxj5bx1KMgmar5g
+
+### Vaidehi Joshi
+The creator of the BaseCS series and advocate for accessibility in Computer Science.
+Also very active in the social justice space with an intersectional approach to equity in the tech industry.
+* Link: https://twitter.com/vaidehijoshi
+
+### Saron Barek:
+Founder of CodeNewbie and a great resource in learning about tech
+* Link: https://twitter.com/saronyitbarek
+
+### Erica Joy
+Prominent voice in the tech industry having led teams at Google, Slack, and Microsoft. Strong advocate for Diversity and Inclusion in the tech industry.
+* Link: https://twitter.com/EricaJoy
+
+### Sophie Albert
+Former manager of the React.js team at Facebook and well known voice in the tech industry.
+
+### Dan Abramov
+Influential member of the React.js team at Facebook.
+* Link: https://twitter.com/dan_abramov?
+
+### Sarah Drasner
+Prominent engineer in the tech indsutry, on the core contributors team of the Vue.js framework.
+* Link: https://twitter.com/sarah_edo
+
+### Michael Berhane
+Founder of PoC in tech and cofounder of the tech-ish podcast.
+* Link: https://twitter.com/MichaelBerhane_
+
+### Danielle Leong
+Well-known engineer manager at Github.
+* Link: https://twitter.com/tsunamino
+
+### DHH
+Creator of Ruby on Rails and co-founder at Basecamp.
+* Link: https://twitter.com/dhh
+
+### Mina Markham
+Well known software engineer at Slack.
+* Link: https://twitter.com/MinaMarkham
 
 
 ## Further Reading
@@ -252,15 +319,28 @@ Every day, new advancements in the tech industry change the world we live in and
 ## Business, Startup, General Industry Info
 * [What is the General Data Protection Regulation?](https://digitalguardian.com/blog/what-gdpr-general-data-protection-regulation-understanding-and-complying-gdpr-data-protection)
 * [What It’s Like Managing 10 Million Users As a Solo Developer](https://www.producthunt.com/stories/what-it-s-like-managing-10-million-users-as-a-solo-developer)
+* [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://www.freecodecamp.org/news/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331/)
 
+
+## Tutorials, Javascript, Coding Guides
+* [JavaScript Basics Before You Learn React](https://dev.to/nsebhastian/javascript-basics-before-you-learn-react-38en)
+* [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises)
+* [Pure versus impure functions](https://ultimatecourses.com/blog/pure-versus-impure-functions)
 
 ## Security
 * [GraphQL security in Node.js project](https://graphqlmastery.com/blog/graphql-security-in-node-js-project)
 * [How to safely store passwords](https://codahale.com/how-to-safely-store-a-password/)
 * [Web Security 101](https://dev.to/bnevilleoneill/web-security-101-40gj)
+* [Securing Your GraphQL API from Malicious Queries ](https://blog.apollographql.com/securing-your-graphql-api-from-malicious-queries-16130a324a6b)
+* [How to secure <a/> tags in the browser](https://developers.google.com/web/tools/lighthouse/audits/noopener)
 
 
 ### Devops, Infrastructure, Code Deployment:
  * [AWS Tips I wish I’d Known Before I Started](https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/)
  * [Heroku vs AWS EC2 (or Infrastructure as service vs Platform as service)](https://rubygarage.org/blog/heroku-vs-amazon-web-services)
  * [Difference Between Horizontal and Vertical Scaling](https://github.com/vaquarkhan/vaquarkhan/wiki/Difference-between-scaling-horizontally-and-vertically)
+
+
+## General Software Engineering
+* [Why review code?](https://sophiebits.com/2018/12/25/why-review-code.html)
+* [Reviewing Pull Requests](https://chelseatroy.com/2019/12/18/reviewing-pull-requests/)
